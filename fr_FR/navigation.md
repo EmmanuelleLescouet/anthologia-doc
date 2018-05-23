@@ -19,8 +19,15 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[À propos du projet](pages/about.md)
+[Documentation](pages/documentation.md)
+[La plateforme Anthologia](http://anthologia.ecrituresnumeriques.ca)
+[Ressources et plateformes](pages/ressources.md)
+
+[Partenaires](pages/partenaires.md)
+[Le manuscrit](pages/manuscrit.md)
+[Conférences et évènements](pages/conferences.md)
+[Contacts](pages/contacts.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
