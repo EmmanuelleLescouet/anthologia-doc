@@ -138,3 +138,14 @@ Motifs :
 Jeunes
 
 Images :
+
+## Les données
+
+Les données sont exposées en json. L'uri de chaque objet est disponible sur la Plateforme Anthologia.
+
+Par exemple:
+http://anthologia.ecrituresnumeriques.ca/api/v1/entities donne la liste de toutes les entités
+
+anthologia.ecrituresnumeriques.ca/api/v1/entities86 donne toutes les informations sur l'entité avec id 86
+
+![entites86](https://i.imgur.com/ut5mis9.png)
