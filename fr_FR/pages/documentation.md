@@ -32,7 +32,7 @@ Si vous trouvez des erreurs dans la plateforme, veuillez [nous les signaler](mai
 
 Dans le menu de gauche vous pouvez accéder à l'ensemble des foctionnalités du site.
 
-![menu](https://imgur.com/ng7Fz9Z)
+![menu](https://i.imgur.com/ng7Fz9Z.png?2)
 
 - Entities: la page avec la liste des épigrammes disponibles dans la base (listées en ordre alphabétique). Depuis cette page vous pouvez ajouter de nouvelles épigrammes ou éditer les épigrammes existantes.
 - Authors: la liste des poètes auteurs d'une ou plusieurs épigrammes
@@ -59,7 +59,7 @@ Chaque entité est alignée à l'uri Perseus (si le texte est disponible).
 Allez sur l'édition [Perseus de l'Anthologie Palatine](http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg7000.tlg001.perseus-grc1).
 Le URI est le premier lien dans la colonne de droite.
 
-![uri](https://imgur.com/DnAxUIO)
+![uri](https://i.imgur.com/DnAxUIO.png?1)
 
 Concrètement le uri est structuré de la façon suivante :
 
