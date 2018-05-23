@@ -15,7 +15,7 @@
 
 - [Perseus](http://www.perseus.tufts.edu/hopper/)
 - [Hetic](https://www.hetic.net/)
-- [Liceo Classico Cagnazzi]( [Search domain www.liceocagnazzi.gov.it] liceocagnazzi.gov.it)
+- [Liceo Classico Cagnazzi](http://www.liceocagnazzi.gov.it)
 - [Liceo Classico Majorana](www.majoranacorner.gov.it)
 - [CRSH](http://www.sshrc-crsh.gc.ca)
 - [CRIHN](http://crihn.org/)
