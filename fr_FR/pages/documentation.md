@@ -16,7 +16,7 @@ Depuis la plateforme il est possible (entre autre) d'ajouter et modifier:
 - des notes
 - des auteurs
 
-### Connexion à la plateforme
+## Connexion à la plateforme
 
 Connectez-vous à la plateforme [ici](https://anthologia.ecrituresnumeriques.ca).
 
@@ -24,11 +24,11 @@ Si vous avez déjà un compte, cliquez sur "Login" en haut à droite de la page.
 
 Si vous n'avez pas de compte, vous pouvez en créer en en cliquant sur "Register". Vous pourrez ensuite entrer dans la plateforme en insérant votre mail et votre mot de passe.
 
-### Droits d'accès
+## Droits d'accès
 Tout utilisateur peut ajouter des informations et modifier les informations qu'il a créées. Il n'est pas possible de modifier les informations créées par un autre utilisateur (à moins d'avoir des privilèges d'administrateur).
 Si vous trouvez des erreurs dans la plateforme, veuillez [nous les signaler](mailto:crc.ecrituresnumeriques@gmail.com).
 
-### La structure du site
+## La structure du site
 
 Dans le menu de gauche vous pouvez accéder à l'ensemble des foctionnalités du site.
 
@@ -45,7 +45,7 @@ Dans le menu de gauche vous pouvez accéder à l'ensemble des foctionnalités du
 
 Toute information disponible dans la base (épigramme, auteur, ville, mot-clé, traduction etc.) peut être trouvée via le moteur de recherche dans la page d'accueil.
 
-### Créer une entité
+## Les entités
 
 Une entité est une épigramme. Chaque entité peut avoir plusieurs versions:
 - plusieurs versions en grec (par exemple différentes éditions)
@@ -54,7 +54,7 @@ Une entité est une épigramme. Chaque entité peut avoir plusieurs versions:
 
 Chaque entité est alignée à l'uri Perseus (si le texte est disponible).
 
-#### Récupérer le URI sur Perseus.
+## Récupérer le URI sur Perseus.
 
 Allez sur l'édition [Perseus de l'Anthologie Palatine](http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg7000.tlg001.perseus-grc1).
 Le URI est le premier lien dans la colonne de droite.
@@ -75,22 +75,23 @@ http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg7000.tlg001.per
 
 Le URI permet de récupérer le texte grec mis à disposition par Perseus. C'est très important d'utiliser ce texte même s'il y a des erreurs, puisqu'il nous permet d'avoir une référence stable. Dans le cas où le texte contient des erreurs, il est possible d'insérer une deuxième version du texte grec, pour laquelle il faudra sélectionner la langue grec version usager.
 
-#### Insertion de la traduction.
+## Insertion de la traduction.
 
 Pour chaque épigramme, on peut insérer plusieurs traductions. Sélectionnez la langue "français moderne". C'est préférable (même si pas obligatoire) que tout utilisateur n'insère qu'une seule traduction. Si vous désirez ajouter plusieurs traductions, vous pouvez le faire avec d'autres comptes utilisateurs.
 
-#### Alignement de la traduction
+## Alignement de la traduction
 
 Sélectionnez le texte grec que vous voulez aligner et ensuite la traduction à aligner. ATTENTION: c'est possible aligner seulement deux textes à la fois; si plusieurs textes sont sélectionnés vous ne pourrez pas les aligner. Une fois les deux textes sélectionnés, un bouton vert apparaîtra à droite; en y appuyant, vous pourrez procéder à l'alignement. Pour aligner, sélectionnez les mots grecs et ensuite les mots français. Appuyez sur le bouton vert pour valider l'alignement. Appuyez sur "send to server" pour enregistrer l'alignement proposé. Vous pouvez choisir la granularité de l'alignement : en général, la granularité la plus fine possible est préférable, mais parfois cela ne sera pas possible. Ça va de soi que l'alignement parfait n'existe pas, essayez pourtant d'aligner tous les mots.
 
-#### Transcription des scholies
+## Transcription des scholies
 
 Appuyez sur su "Add new Scholie". Selezionate la lingua (αρχαία Ελληνικά) e inserite il testo greco. Se siete incerti sulla trascrizione, o se identificate due o tre interpretazioni possibili, potete aggiungere più volte lo stesso scolio - semplicemente facendo di nuovo "Add new Scholie" e selezionando la lingua greca. In questo caso è preferibile (ma non obbligatorio) che i due testi siano aggiunti da due users diversi.
-#### Traduire les scholies
+
+## Traduire les scholies
 
 Cliquez sur "Add new scholie", sélectionnez la langue de la traduction et insérez le texte. Dans le cas où une épigramme aie plusieurs scholies, procédez de la même façon pour chaque scholie. À l'état actuel, la plateforme ne permet pas de relier de manière univoque un scholie et sa traduction. Dans un second temps, nous ajouterons manuellement cette information à la base des données : rarement une épigramme contient plus que deux scholies.
 
-#### Ajouter des images.
+## Ajouter des images.
 
 Pour le moment, une image peut être liée seulement à des épigrammes (une ou plusieurs), mais non pas à un mot-clé.
 
