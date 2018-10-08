@@ -15,14 +15,13 @@ Sur ce site vous trouverez:
 6. [Les conférences et les évènements liés au projet](pages/conferences.md)
 7. [Nos contacts](pages/contacts.md)
 
+
+---
+
 ![Chaire de recherche du Canada sur les écritures numériques](http://vitalirosati.net/chaire/img/logo.png)
-
-![CRSH](https://www.congres2017.ca/sites/default/files/sites/default/uploads/Logos/sshrc_logo_fr.jpg)
-
-![Umontreal](https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Universite_de_Montreal_logo.svg/640px-Universite_de_Montreal_logo.svg.png)
-
-![Chaires](http://vitalirosati.net/chaire/img/chaires.png)
-
-![hetic](http://www.studywork.fr/bundles/studyworkprototype/img/LOGO_HETIC.png)
-
+![CRSH](https://www.congres2017.ca/sites/default/files/sites/default/uploads/Logos/sshrc_logo_fr.jpg) 
+![Umontreal](https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Universite_de_Montreal_logo.svg/640px-Universite_de_Montreal_logo.svg.png) 
+![Chaires](http://vitalirosati.net/chaire/img/chaires.png) 
+![hetic](http://www.studywork.fr/bundles/studyworkprototype/img/LOGO_HETIC.png) 
 ![CRIHN](http://i.imgur.com/tvZYHDY.png)
+
