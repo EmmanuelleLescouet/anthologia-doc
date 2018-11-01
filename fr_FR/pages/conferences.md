@@ -1,8 +1,9 @@
 # Conférences et évènements
 
 ## Vidéos conférences
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=YK21jideSTI&t=1s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lQ_cqfWLbQ0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=YK21jideSTI&t=1s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Présentations et diapositives
 
