@@ -15,7 +15,7 @@ Toutes les données du projet sont exposées via api. Les endpoints sont affich�
 
 ## Visualisations
 
-- Site public qui affiche les épigrammes
+- [POP](https://anthologia.scolaire.loupbrun.ca/#/) : Plateforme Ouverte des Parcours d'imaginaires qui permet de visualiser les épigrammes dans les versions grecques et les traductions (en français, anglais et italien), leurs métadonnées (auteur, date, lieu et mots-clefs) sous la forme de parcours de lecture thématiques. 
 
 ## Outils
 
