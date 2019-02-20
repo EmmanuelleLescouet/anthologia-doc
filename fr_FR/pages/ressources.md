@@ -10,8 +10,8 @@ Le guide pour utiliser la platefrme est [ici](pages/documentation.md).
 
 Toutes les données du projet sont exposées via api. Les endpoints sont affichés dans la plateforme Anthologia.
 
-- [l'API sur github](https://github.com/EcrituresNumeriques/anthologie-API/)
-- [La liste des endpoints](https://github.com/EcrituresNumeriques/anthologie-API/blob/master/src/config/routes.js)
+- [l'API sur framagit](https://framagit.org/anthologie-palatine/anthologie-API/)
+- [La liste des endpoints](https://framagit.org/anthologie-palatine/anthologie-API/blob/master/src/config/routes.js)
 
 ## Visualisations
 
