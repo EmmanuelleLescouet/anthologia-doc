@@ -15,6 +15,10 @@
 - [Presentazione del progetto Antologia Palatina in italiano](http://vitalirosati.net/slides/conf-2016-12-09-anthologie.html#/) (09-12-16)
 - [Pour une version numérique de l'Anthologie Palatine, Décembre 2015](http://vitalirosati.net/slides/conf-2015-04-12-anthologie.html) - Atelier sur les éditions critiques en contexte numérique, organisé par le Centre de recherche Virtuoso sur les usages, cultures et documents numériques, Université de Montréal, 3 décembre 2015
 
+## Vidéos
+Vidéo réalisée par le Lycée d'État N. Cagnazzi d'Altamura présentant le projet Antologia Palatina en collaboration avec la Chaire de recherche du Canada sur les écritures numériques de l'Université de Montréal<br />
+<iframe width="560" height="315" src="https://archive.org/details/videoantologiapalatinadef" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Billets de blogue
 - [Une API pour l’Anthologie grecque](https://movi.hypotheses.org/237)
 - [Pour une édition participative de l’Anthologie Palatine](http://blog.sens-public.org/marcellovitalirosati/pour-une-edition-participative-de-lanthologie-palatine/)
