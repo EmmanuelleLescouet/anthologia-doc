@@ -4,7 +4,7 @@
 
 [La plateforme Anthologia](http://anthologia.ecrituresnumeriques.ca) permet d'insérer des informations dans la base de données. L'usager peut créer un compte et collaborer à l'édition du manuscrit.
 
-Le guide pour utiliser la platefrme est [ici](pages/documentation.md).
+Le guide pour utiliser la platefrme est [ici](http://anthologia-doc.ecrituresnumeriques.ca/fr_FR/#!pages/documentation.md).
 
 ## L'API
 
