@@ -25,4 +25,4 @@ Toutes les données du projet sont exposées via api. Les endpoints sont affich�
 
 - [L'édition de Paton sur Archive.org](https://archive.org/search.php?query=the%20greek%20anthology%20AND%20collection%3Atoronto)
 - [L'Anthologie sur Perseus](http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg7000.tlg001.perseus-grc1)
-- [Le manuscrit](pages/manuscrit.md)
+- [Le manuscrit](manuscrit.md)
