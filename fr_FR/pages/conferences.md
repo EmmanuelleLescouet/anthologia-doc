@@ -4,6 +4,14 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lQ_cqfWLbQ0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YK21jideSTI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/czsBVznpUb4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qozMsxvr6C8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7-_R2M9K38g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+
 
 ## Présentations et diapositives
 
